@@ -1,1 +1,1 @@
-alert("Hi for nother");
+alert("Hi for person1");
